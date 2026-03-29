@@ -13,13 +13,13 @@ This project demonstrates digital literacy skills including online presence, saf
 Created using Canva to explain digital literacy concepts.
 
 ###  Task 2 – Portfolio
-Profiles created on GitHub, LinkedIn, and HackerRank.
+Profiles created on GitHub, LinkedIn, and Kaggle.
 
 ###  Task 3 – Platforms
-Solved coding problem and created Google Form.
+Solved coding problem in C on HackerRank and created Google Form.
 
 ###  Task 4 – Email Etiquette
-Drafted professional emails and social media guidelines.
+Drafted professional emails for 1st deadline extension of assingment from professor and 2nd asking summer internship from Amazon. and the social media Do's & Don'ts guidelines.
 
 ###  Task 5 – Cybercrime
 Case study on phishing and prevention checklist.
